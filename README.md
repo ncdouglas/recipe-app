@@ -1,6 +1,10 @@
-#  Recipe App
+#  About
 
  Whats for dinner? This is a simple application to find various recipes that you can cook for dinner tonight.
+
+ Built with help from the following:
+ Dev Ed @ https://www.youtube.com/watch?v=U9T6YkEDkMo
+ Recipe Seacrch API by https://www.edamam.com/
 
 ## Built With:
 
@@ -14,7 +18,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-#### Credit
-
-Dev Ed @ https://www.youtube.com/watch?v=U9T6YkEDkMo
-Recipe Seacrch API by https://www.edamam.com/
