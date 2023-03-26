@@ -1,6 +1,6 @@
 .App {
   min-height: 100vh;
-  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  background-image: linear-gradient(120deg, #8fd3f4 0%, #73d798 100%);
 }
 
 .search-form {
@@ -11,16 +11,21 @@
 }
 
 .search-bar {
-  width: 50%;
+  width: 30%;
   border: none;
   padding: 10px;
+  border-radius: 20px;
+  margin: 15px;
+  outline: none;
 }
 
 .search-button {
-  background: rgb(0, 162, 255);
+  background: rgb(112, 114, 116);
   border: none;
   padding: 10px 20px; 
   color: white;
+  font-size: 15px;
+  border-radius: 20px;
 }
 
 .recipes {
